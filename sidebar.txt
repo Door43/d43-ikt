@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ikt:home|Door43 (ikt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ikt|d43-ikt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ikt/archive/master.zip|d43-ikt.zip]]
+
+**Recent Changes**
+{{changes>ns = ikt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ikt|Ethnologue data]]
+
